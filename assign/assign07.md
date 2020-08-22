@@ -22,7 +22,7 @@ This is a **Team** assignment.
 
 Your task is to complete a final report documenting your project, and to give a presentation on the project. Our expectations for the report are described in the [Final Report Details](finalreport.html) document.
 
-You are **strongly encouraged** to make an appointment and visit the [Writing Center in the Center for Teaching and Learning](http://www.ycp.edu/offices-and-services/center-for-teaching-and-learning/writing-center/) to get help from a writing tutor. Bring your document with you!
+You are **strongly encouraged** to make an appointment and visit the [Writing Center in the Center for Teaching and Learning](https://www.ycp.edu/about-us/offices-and-departments/student-success/writing-center/) to get help from a writing tutor. Bring your document with you!
 
 ### Presentation Guidelines
 

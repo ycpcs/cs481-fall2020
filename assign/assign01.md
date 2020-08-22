@@ -45,7 +45,7 @@ You are **strongly** encouraged to meet with your instructor[s] to discuss proje
 
 Your second task is to create a main repository for your project on [GitHub](https://github.com).
 
-You should add all of your team members as contributors to the repository.  Also, add your instructor[s] (GitHub user [jmoscola](https://github.com/jmoscola)) to the list of contributors.
+You should add all of your team members as contributors to the repository.  Also, add your instructor[s] (GitHub user [dbabcock](https://github.com/dbabcock), [jmoscola](https://github.com/jmoscola)) to the list of contributors.
 
 In the issue tracker for the main repository, create three labels:
 

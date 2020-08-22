@@ -52,6 +52,6 @@ It is expected that your report will be well-written. Specifically:
 -   **It should use correct spelling and grammar.** Use a spelling checker!
 -   Remember, this document will be posted publicly on the YCP Computer Science web page. It will be visible to the whole world, including future prospective employers and students.
 
-It is **strongly encouraged** that you make an appointment and visit the [Writing Center in the Center for Teaching and Learning](http://www.ycp.edu/offices-and-services/center-for-teaching-and-learning/writing-center/) to get help from a writing tutor. Bring your document with you!
+It is **strongly encouraged** that you make an appointment and visit the [Writing Center in the Center for Teaching and Learning](https://www.ycp.edu/about-us/offices-and-departments/student-success/writing-center/) to get help from a writing tutor. Bring your document with you!
 
 If there are too many spelling and grammar errors the report may be returned to you unread and without comments.
