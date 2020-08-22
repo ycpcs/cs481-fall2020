@@ -75,7 +75,7 @@ assignments, as follows:
 -   Assignment 6 - 50% Working System - **10%**
 -   Assignment 7 - Final System, Report, and Presentation - **25%**
 
-**Individual Effort, Effectiveness, and Professionalism**
+**Individual Effort, Effectiveness, and Professionalism**<br>
 This portion of the grade will assess a variety of factors over the duration of the 
 semester-long project, including: individual level of effort, technical contributions 
 and competence, time management, motivation, teamwork, leadership, organization and 
