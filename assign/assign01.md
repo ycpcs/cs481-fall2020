@@ -59,7 +59,7 @@ Your group may add additional labels as desired.
 
 
 
-## Set up your computing environment
+## Set up your computing environment and toolchain
 
 Your third task is for each group member to set up a computing environment with the hardware and software you will need for the project.
 
@@ -86,7 +86,7 @@ Please note that you aren't required to use one of the PCs: you can use your own
   - Members and instructor[s] added as contributors: **5%**
   - Categories created in issue tracker: **10%**
 
-* Physical space setup: **15%**
+* Computer/Toolchain Setup: **15%**
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
