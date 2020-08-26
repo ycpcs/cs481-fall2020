@@ -94,4 +94,5 @@ Please note that you aren't required to use one of the PCs: you can use your own
 
 # Submitting
 
-To submit, share your Google doc with the instructor[s].
+<!-- To submit, share your Google doc with the instructor[s]. -->
+To submit your written proposal (the first task), upload a PDF to Canvas under the "Project Proposal" assignment.
