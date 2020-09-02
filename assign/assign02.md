@@ -28,7 +28,7 @@ Please format your entry as a *bulleted list*.
 
 You can create a link to a commit by pasting the first 8 (or so) hex digits of its hash code.
 
-Your journal entries should be complete by midnight on Tuesday (so they can be reviewed by the instructor[s] on Wednesday morning.)
+Your journal entries should be completed prior to your next class meeting.
 
 
 ## Demo (individual)
